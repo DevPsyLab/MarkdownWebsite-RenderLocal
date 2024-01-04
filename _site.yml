@@ -33,5 +33,7 @@ navbar:
     - text: "About"
       href: about.html
   right:
+    - text: "Lab Wiki"
+      href: https://devpsylab.github.io/LabWiki
     - text: "Lab Website"
       href: https://developmental-psychopathology.lab.uiowa.edu
